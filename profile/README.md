@@ -1,95 +1,98 @@
+<div align="center">
+
+<img src="./public/mulearn-logo.png" alt="µLearn MCE" width="180"/>
+
 # µLearn MCE
 
-<p align="center">
-  <strong>Involve • Interact • Innovate</strong>
-</p>
+### Involve • Interact • Innovate
 
-<p align="center">
-  <a href="https://mulearnmce.vercel.app">Website</a> •
-  <a href="https://discord.gg/YOUR_INVITE">Discord</a> •
-  <a href="https://instagram.com/mulearnmce">Instagram</a> •
-  <a href="https://github.com/mulearn-mce">GitHub</a>
-</p>
+Official µLearn chapter of Model Engineering College
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mulearn-mce&label=Views&style=flat" alt="View Counter" />
-</p>
+[![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge)](https://mulearnmce.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mulearnmce)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/YOUR_INVITE)
+[![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mulearn-mce)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mulearn-mce&label=Repository+Views&color=blueviolet&style=for-the-badge" />
+
+</div>
 
 ---
 
 ## About
 
-µLearn MCE is the official µLearn chapter of Model Engineering College. It is a peer-driven learning community where students collaborate, build projects, contribute to open source, and explore technology through practical experience.
+µLearn MCE is the official µLearn chapter at **Model Engineering College (MEC)**.
 
-The community focuses on learning by doing, encouraging students from different disciplines to work together, share knowledge, and create meaningful impact.
+We are a peer-driven community of builders, designers, developers, and innovators who learn through building real-world projects, participating in open source, organizing events, and sharing knowledge.
 
 ---
 
 ## Community Snapshot
 
-| Metric            | Value  |
-| ----------------- | ------ |
-| Students Enrolled | 1100+  |
-| Learning Circles  | 47+    |
-| Interest Groups   | 7+     |
-| Karma Mined       | 1.19M+ |
-| µLearn Rank       | #3     |
+<div align="center">
+
+| Students  | Learning Circles | Interest Groups | Karma Mined | Rank   |
+| --------- | ---------------- | --------------- | ----------- | ------ |
+| **1100+** | **47+**          | **7+**          | **1.19M+**  | **#3** |
+
+</div>
 
 ---
 
 ## Learning Circles
 
-### Web IG
-
-Frontend and backend development, modern frameworks, web technologies, and project building.
-
-### AI
-
-Machine learning, data science, AI tools, and practical applications.
-
-### UI/UX
-
-Design systems, user experience, prototyping, and product design.
-
-### IoT
-
-Embedded systems, sensors, automation, and connected devices.
-
-### Cyber Security
-
-CTFs, ethical hacking, digital forensics, and security fundamentals.
-
-### MUV
-
-Film discussions, storytelling, media analysis, and creative exploration.
-
-### Comics
-
-Visual storytelling, comic culture, art, and narrative design.
-
-### Civil
-
-Civil engineering concepts, infrastructure, and sustainable design.
+| Circle            | Focus Area                                |
+| ----------------- | ----------------------------------------- |
+| 🌐 Web IG         | Frontend, Backend, Full Stack Development |
+| 🤖 AI             | Machine Learning, LLMs, Data Science      |
+| 🎨 UI/UX          | Design Systems, Research, Prototyping     |
+| 📡 IoT            | Embedded Systems, Automation              |
+| 🔒 Cyber Security | CTFs, Pentesting, Digital Forensics       |
+| 🎬 MUV            | Cinema, Storytelling, Media Analysis      |
+| 📚 Comics         | Visual Storytelling & Culture             |
+| 🏗 Civil          | Infrastructure & Sustainable Engineering  |
 
 ---
 
 ## Community Pillars
 
-### Learning Circles
+<table>
+<tr>
+<td width="25%" align="center">
 
-Small peer-led groups focused on continuous learning and skill development.
+### Learning
 
-### Project Building
+Peer-led learning circles focused on practical skill development.
 
-Collaborative development of products, tools, and solutions.
+</td>
+
+<td width="25%" align="center">
+
+### Building
+
+Developing products, tools, and solutions collaboratively.
+
+</td>
+
+<td width="25%" align="center">
 
 ### Mentorship
 
-Guidance from experienced students, alumni, and industry professionals.
+Support from experienced students, alumni, and professionals.
+
+</td>
+
+<td width="25%" align="center">
 
 ### Hackathons
 
-Build-focused events that encourage innovation and problem-solving.
+Build-focused events that encourage innovation.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -112,8 +115,6 @@ Build-focused events that encourage innovation and problem-solving.
 
 ## Contributing
 
-Contributions are welcome from students, alumni, and community members.
-
 ```bash
 git clone https://github.com/mulearn-mce/website.git
 
@@ -124,41 +125,40 @@ npm install
 npm run dev
 ```
 
-Create a new branch, make your changes, and submit a pull request.
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Open a Pull Request
 
----
-
-## Connect
-
-* Website: https://mulearnmce.vercel.app
-* Discord: https://discord.gg/YOUR_INVITE
-* Instagram: https://instagram.com/mulearnmce
-* GitHub: https://github.com/mulearn-mce
-  
 ---
 
 ## Maintainers
-
-This project is currently maintained by:
 
 | Name         | Role                   |
 | ------------ | ---------------------- |
 | Adhwaith A S | Maintainer & Tech Lead |
 
-For technical issues, feature requests, or contribution-related queries, please open an issue in this repository.
+For technical issues, feature requests, or contribution-related discussions, please open an issue.
 
 ---
 
-## Connect
+## Connect With Us
 
-* Website: https://mulearnmce.vercel.app
-* Instagram: https://instagram.com/mulearnmce
-* Discord: https://discord.gg/YOUR_INVITE
-* GitHub: https://github.com/mulearn-mce
+<div align="center">
+
+[Website](https://mulearnmce.vercel.app) •
+[Instagram](https://instagram.com/mulearnmce) •
+[Discord](https://discord.gg/YOUR_INVITE) •
+[GitHub](https://github.com/mulearn-mce)
+
+</div>
 
 ---
 
-<p align="center">
-  µLearn MCE<br>
-  Learning through building.
-</p>
+<div align="center">
+
+### Learning Through Building
+
+Maintained by the µLearn MCE Tech Team
+
+</div>
