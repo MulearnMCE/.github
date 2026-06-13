@@ -2,8 +2,6 @@
 
 <img src="./MCE-logo.png" alt="µLearn MCE" width="180"/>
 
-# µLearn MCE
-
 ### Involve • Interact • Innovate
 
 Official µLearn chapter of Model Engineering College
