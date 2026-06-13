@@ -4,12 +4,12 @@
 
 ### Involve • Interact • Innovate
 
-Official µLearn chapter of Model Engineering College
+Official µLearn chapter of Marian Engineering College
 
-[![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge)](https://mulearnmce.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mulearnmce)
+[![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge)](https://mulearnmce.adhwaithas.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mulearn.mce)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/YOUR_INVITE)
-[![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mulearn-mce)
+[![GitHub](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mulearnmce)
 
 <br>
 
@@ -21,7 +21,7 @@ Official µLearn chapter of Model Engineering College
 
 ## About
 
-µLearn MCE is the official µLearn chapter at **Model Engineering College (MEC)**.
+µLearn MCE is the official µLearn chapter at **Marian Engineering College (MCE)**.
 
 We are a peer-driven community of builders, designers, developers, and innovators who learn through building real-world projects, participating in open source, organizing events, and sharing knowledge.
 
@@ -114,7 +114,7 @@ Build-focused events that encourage innovation.
 ## Contributing
 
 ```bash
-git clone https://github.com/mulearn-mce/website.git
+git clone https://github.com/mulearnmce/website.git
 
 cd website
 
@@ -144,10 +144,10 @@ For technical issues, feature requests, or contribution-related discussions, ple
 
 <div align="center">
 
-[Website](https://mulearnmce.vercel.app) •
-[Instagram](https://instagram.com/mulearnmce) •
+[Website](https://mulearnmce.adhwaithas.dev) •
+[Instagram](https://instagram.com/mulearn.mce) •
 [Discord](https://discord.gg/YOUR_INVITE) •
-[GitHub](https://github.com/mulearn-mce)
+[GitHub](https://github.com/mulearnmce)
 
 </div>
 
