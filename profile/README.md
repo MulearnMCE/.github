@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./public/mulearn-logo.png" alt="µLearn MCE" width="180"/>
+<img src="./profile/MCE-logo.png" alt="µLearn MCE" width="180"/>
 
 # µLearn MCE
 
