@@ -4,7 +4,7 @@
 
 ### Involve • Interact • Innovate
 
-Official µLearn chapter of Model Engineering College
+Official µLearn chapter of Marian Engineering College
 
 [![Website](https://img.shields.io/badge/Website-Live-blue?style=for-the-badge)](https://mulearnmce.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/mulearnmce)
@@ -21,7 +21,7 @@ Official µLearn chapter of Model Engineering College
 
 ## About
 
-µLearn MCE is the official µLearn chapter at **Model Engineering College (MEC)**.
+µLearn MCE is the official µLearn chapter at **Marian Engineering College (MCE)**.
 
 We are a peer-driven community of builders, designers, developers, and innovators who learn through building real-world projects, participating in open source, organizing events, and sharing knowledge.
 
